@@ -1,0 +1,8 @@
+{
+  "short_name": "@rickbrown/use-clipboard",
+  "name": "@rickbrown/use-clipboard",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
